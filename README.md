@@ -33,4 +33,4 @@ Boston Housing Dataset Attribute Information (in order):
 
 <li>Linear Regression
   
-**Mean Squared Error:** 10.0
+**Mean Squared Error:** 4.53679584704892
